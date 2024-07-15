@@ -1,0 +1,35 @@
+.career {
+  margin: 180px 150px;
+  margin-bottom: 0;
+  height: 412px;
+  width: 1140px;
+  display: flex;
+
+  &_left {
+    &_top {
+      display: flex;
+      flex-direction: column;
+      width: 411px;
+      margin-bottom: 60px;
+      &_icon {
+        width: 36px;
+        height: 36px;
+      }
+
+      &_heading {
+        margin-left: 36px;
+        width: 375px;
+        height: 40px;
+        font: normal normal bold 40px/54px Adobe Caslon Pro;
+        letter-spacing: 0px;
+        color: #05416e;
+        opacity: 1;
+      }
+    }
+  }
+
+  &_right {
+    width: 564px;
+    height: 412px;
+  }
+}

@@ -1,0 +1,9 @@
+.body {
+  color: white;
+  font-size: large;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=style_20240712110258.css.map */

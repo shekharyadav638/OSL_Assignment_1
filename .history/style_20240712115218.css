@@ -1,0 +1,40 @@
+.body {
+  top: 0px;
+  left: 0.0000265241px;
+  width: 1440px;
+  height: 768px;
+  opacity: 1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  top: 16px;
+  left: 150px;
+  width: 1140px;
+  height: 52px;
+  opacity: 1;
+}
+.header_left {
+  align-items: center;
+  top: 16px;
+  left: 150px;
+  width: 170px;
+  height: 52px;
+  opacity: 1;
+}
+.header_right {
+  align-items: center;
+}
+.header_right_list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.header_right_list_item {
+  text-align: left;
+  font: normal normal normal 14px/11px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}/*# sourceMappingURL=style_20240712115218.css.map */

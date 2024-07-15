@@ -1,0 +1,15 @@
+.hiring {
+  margin: 180px 150px;
+
+  &_top {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &_body {
+    display: flex;
+    justify-content: space-between;
+    &_img {
+    }
+  }
+}

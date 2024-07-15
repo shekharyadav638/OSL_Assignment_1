@@ -1,0 +1,61 @@
+.body {
+  top: 0px;
+  left: 0.0000265241px;
+  width: 1440px;
+  height: 768px;
+  opacity: 1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  top: 16px;
+  left: 150px;
+  width: 1140px;
+  height: 52px;
+  opacity: 1;
+}
+.header_left {
+  align-items: center;
+  display: flex;
+  top: 16px;
+  left: 150px;
+  width: 170px;
+  height: 52px;
+  opacity: 1;
+}
+.header_left_logo {
+  top: 16px;
+  left: 150px;
+  width: 52px;
+  height: 52px;
+  background: #6f2d2d 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.header_left_title {
+  padding-left: 5px;
+  top: 28px;
+  left: 207px;
+  width: 113px;
+  height: 28px;
+  text-align: left;
+  font: normal normal bold 21px/28px Segoe UI;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.header_right {
+  align-items: center;
+}
+.header_right_list {
+  display: flex;
+  justify-content: space-between;
+}
+.header_right_list_item {
+  list-style: none;
+  text-align: left;
+  font: normal normal normal 14px/11px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}/*# sourceMappingURL=style_20240712120534.css.map */

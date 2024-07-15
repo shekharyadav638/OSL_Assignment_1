@@ -1,0 +1,15 @@
+.career {
+  margin: 180px 150px;
+  margin-bottom: 0;
+  height: 412px;
+  width: 1140px;
+  display: flex;
+
+  &_left {
+  }
+
+  &_right {
+    width: 564px;
+    height: 412px;
+  }
+}

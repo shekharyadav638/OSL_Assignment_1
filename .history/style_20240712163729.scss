@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  width: 1440px;
+  opacity: 1;
+  overflow-x: hidden;
+}
+
+@import "header";
+
+.banner {
+  background-image: url(img/banner.png);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+
+  &_left {
+    align-content: center;
+    margin-left: 158px;
+    &_text {
+      text-align: left;
+      font: normal normal bold 80px/80px Adobe Caslon Pro;
+      letter-spacing: 0.8px;
+      color: #ffffff;
+      opacity: 1;
+    }
+    &_input {
+      display: flex;
+      align-items: center;
+
+      &_box {
+        width: 669px;
+        height: 60px;
+      }
+    }
+  }
+
+  &_right {
+    &_img {
+      position: relative;
+      margin-top: 156px;
+    }
+  }
+}

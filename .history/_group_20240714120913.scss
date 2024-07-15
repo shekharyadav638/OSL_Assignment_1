@@ -1,0 +1,74 @@
+.group {
+  margin: 180px 150px;
+  margin-bottom: 0;
+
+  &_top {
+    display: flex;
+    flex-direction: column;
+    width: 411px;
+    margin-bottom: 60px;
+    &_icon {
+      width: 36px;
+      height: 36px;
+    }
+
+    &_heading {
+      margin-left: 36px;
+      width: 375px;
+      height: 40px;
+      font: normal normal bold 40px/54px Adobe Caslon Pro;
+      letter-spacing: 0px;
+      color: #000000;
+      opacity: 1;
+    }
+  }
+
+  &_body {
+    display: flex;
+    justify-content: space-between;
+    &_img {
+      & img {
+        width: 276px;
+        height: 308px;
+        border-radius: 4px;
+        opacity: 1;
+      }
+    }
+  }
+
+  &_footer {
+    margin-top: 60px;
+
+    &_btn {
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      & button {
+        width: 215px;
+        height: 40px;
+        background: #ffffff 0% 0% no-repeat padding-box;
+        border: 1px solid #05416e;
+        border-radius: 4px;
+        opacity: 1;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 8.47px;
+        display: flex;
+        justify-content: space-between;
+      }
+      &_text {
+        width: 142px;
+        height: 22px;
+        font: normal normal 600 18px/17px Montserrat;
+        letter-spacing: 0px;
+        color: #05416e;
+      }
+      &_icon {
+        width: 17px;
+        height: 16px;
+      }
+    }
+  }
+}

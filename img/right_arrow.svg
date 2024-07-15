@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon_outlined_directional_right_clip_mask_" data-name="icon/outlined/directional/right (clip mask)" width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_outlined_directional_right" data-name="icon/outlined/directional/right" clip-path="url(#clip-path)">
+    <g id="icon_outlined_directional_right_clip_group_" data-name="icon/outlined/directional/right (clip group)">
+      <rect id="icon_outlined_directional_right_style_" data-name="icon/outlined/directional/right (style)" width="16" height="16" fill="none"/>
+      <path id="Vector" d="M6.916,5.277.192.025A.119.119,0,0,0,0,.119V1.272a.241.241,0,0,0,.091.188L5.46,5.653.091,9.845A.237.237,0,0,0,0,10.033v1.153a.119.119,0,0,0,.192.094L6.916,6.029a.477.477,0,0,0,0-.752Z" transform="translate(4.504 1.984)" fill="#788ca0"/>
+    </g>
+  </g>
+</svg>

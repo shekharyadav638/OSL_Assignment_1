@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  width: 1440px;
+  opacity: 1;
+  overflow-x: hidden;
+}
+
+@import "header";
+@import "banner";
+@import "hiring";
+@import "features";
+@import "group";
+@import "skills";
+@import "career";
+@import "connection";

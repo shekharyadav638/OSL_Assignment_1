@@ -1,0 +1,19 @@
+.hiring {
+  margin: 180px 150px;
+
+  &_top {
+    display: flex;
+  }
+
+  &_body {
+    display: flex;
+    &_img {
+      & img {
+        width: 276px;
+        height: 308px;
+        border-radius: 4px;
+        opacity: 1;
+      }
+    }
+  }
+}

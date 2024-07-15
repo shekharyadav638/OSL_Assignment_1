@@ -1,0 +1,29 @@
+.body {
+  top: 0px;
+  left: 0.0000265241px;
+  width: 1440px;
+  height: 768px;
+  opacity: 1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 86px;
+  opacity: 0.25;
+}
+.header_left {
+  top: 16px;
+  left: 150px;
+  width: 170px;
+  height: 52px;
+  opacity: 1;
+}
+.header_right {
+  list-style: none;
+  justify-content: space-between;
+}/*# sourceMappingURL=style_20240712113306.css.map */

@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  width: 1440px;
+  opacity: 1;
+  overflow-x: hidden;
+}
+
+@import "header";
+
+.banner {
+  background-image: url(img/banner.png);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

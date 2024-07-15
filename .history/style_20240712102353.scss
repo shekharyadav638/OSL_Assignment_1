@@ -1,0 +1,11 @@
+$primary-color : #689898;
+$font-weights:(
+    "regular":200,
+    "medium":400,
+    "bold":900,
+);
+
+body{
+    background-color: $primary-color;
+    font-weight: map-get($font-weights , medium);
+}

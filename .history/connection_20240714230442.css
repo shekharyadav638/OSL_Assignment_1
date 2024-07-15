@@ -1,0 +1,80 @@
+.connection {
+  margin: 0px 150px;
+  margin-top: 180px;
+  height: 412px;
+  width: 1140px;
+  display: flex;
+}
+.connection_left {
+  margin-top: 180px;
+  width: 564px;
+  height: 412px;
+}
+.connection_right {
+  margin-top: 180px;
+  margin-right: 108px;
+  display: flex;
+  flex-direction: column;
+}
+.connection_right_top {
+  display: flex;
+  flex-direction: column;
+}
+.connection_right_top_icon {
+  width: 31px;
+  height: 31px;
+}
+.connection_right_top_heading {
+  margin-left: 31px;
+  width: 402px;
+  height: 98px;
+  font: normal normal bold 40px/54px Adobe Caslon Pro;
+  letter-spacing: 0px;
+  color: #05416e;
+  opacity: 1;
+}
+.connection_right_para {
+  padding-top: 50px;
+  padding-left: 36px;
+  width: 432px;
+  height: 100px;
+}
+.connection_right_para p {
+  text-align: left;
+  font: normal normal normal 16px/20px Montserrat;
+  letter-spacing: 0px;
+  color: #32aaff;
+}
+.connection_right_btn {
+  margin-top: 60px;
+  margin-left: 36px;
+  display: flex;
+  align-items: center;
+}
+.connection_right_btn button {
+  width: 159px;
+  height: 40px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #05416e;
+  border-radius: 4px;
+  opacity: 1;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.connection_right_btn_text {
+  font: normal normal 600 18px/17px Montserrat;
+  letter-spacing: 0px;
+  color: #05416e;
+  width: 180px;
+  height: 22px;
+}
+.connection_right_btn_icon {
+  margin-left: 15px;
+  width: 17px;
+  height: 16px;
+}/*# sourceMappingURL=connection_20240714230442.css.map */

@@ -1,0 +1,43 @@
+.body {
+  top: 0px;
+  left: 0.000026524066925048828px;
+  width: 1440px;
+  height: 768px;
+  opacity: 1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  top: 16px;
+  left: 150px;
+  width: 1140px;
+  height: 52px;
+  opacity: 1;
+
+  &_left {
+    align-items: center;
+    top: 16px;
+    left: 150px;
+    width: 170px;
+    height: 52px;
+    opacity: 1;
+  }
+
+  &_right {
+    align-items: center;
+    &_list {
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+
+      &_item {
+        text-align: left;
+        font: normal normal normal 14px/11px Montserrat;
+        letter-spacing: 0px;
+        color: #ffffff;
+        opacity: 1;
+      }
+    }
+  }
+}
